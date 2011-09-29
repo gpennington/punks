@@ -1,0 +1,1 @@
+﻿package src.punks {		import flash.display.MovieClip;	import flash.events.MouseEvent;		public class PunksMenu extends MovieClip {						public function PunksMenu() {						button_play.addEventListener(MouseEvent.CLICK, playClick);			function playClick(event:MouseEvent) {				Main.mainRef.showLevelSelect();							}		}			}}

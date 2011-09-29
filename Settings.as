@@ -1,0 +1,1 @@
+﻿package src.punks {	//import Object;	public class Settings extends Object{		public static var debug = true;		public static var quality = "high";		//public static var explosionSize = 1;				//public static var difficulty = "medium";								//		//etc...		//						public function Settings(){		}	}}

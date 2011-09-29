@@ -1,0 +1,1 @@
+﻿package src.punks {	import src.core.Game;	import src.core.Input;	public class Player extends Object {		static var friendly = true;		static var stars:Number = 500;				public function Player(){								}			}}
